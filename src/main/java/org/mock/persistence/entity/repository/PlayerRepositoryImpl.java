@@ -14,7 +14,7 @@ public class PlayerRepositoryImpl implements IPlayerRepository {
 //            new Player(4L, "Kylian Mbappé", "Paris Saint-Germain", "Delantero"),
 //            new Player(5L, "Kevin De Bruyne", "Manchester City", "Volante"),
 //            new Player(6L, "Virgil van Dijk", "Liverpool", "Defensa")
-//    ));
+    ));
 
     private List<Player> playerDatabase = new ArrayList<>();
 
